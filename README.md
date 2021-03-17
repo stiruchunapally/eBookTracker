@@ -16,10 +16,10 @@ E-book tracker is an e-book management tool that allows teachers to maintain an 
 
 # **How to Run the App**
 
-1. Go to [https://drive.google.com/drive/folders/1Pn-aJrh8SAJMlFGpILofqHf7sv1GcWKj?usp=sharing](https://drive.google.com/drive/folders/1Pn-aJrh8SAJMlFGpILofqHf7sv1GcWKj?usp=sharing) and download &quot;e-book\_tracker-win32-ia32&quot; to your computer by right clicking on the folder and clicking &quot;Download&quot;.
+1. Download a zip file of the project from github by going to the main page, clicking the green button labeled &quot;code&quot; and clicking &quot;Download ZIP&quot;.
 2. Move the folder to your preferred location and unzip the folder by right clicking on the folder and clicking &quot;Extract All&quot; then extract on the opened window
-3. Navigate into the created folder and then into the folder titled &quot;e-book\_tracker-win32-ia32&quot;
-4. Double click on &quot;E-book\_tracker.exe&quot; and run the app
+3. Navigate into the created folder and then into the folder titled &quot;eBookTracker-master&quot;
+4. Double click on &quot;eBookTracker.exe&quot; and run the app
   1. If a window opens titled &quot;Windows protected your PC&quot; click &quot;More info&quot; then &quot;Run anyway&quot;
 5. To navigate the opened app use the menu on the top of the opened window. The main page displays all Students and the E-books that they have checked out. The menu contains tabs titled
   1. File: Allows the user to quit the app, generate a report, and open the help page from this tab
